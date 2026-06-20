@@ -1,0 +1,12 @@
+openai>=1.68.0,<3.0.0
+pandas>=2.2.3,<4.0.0
+Pillow>=10.4.0,<13.0.0
+opencv-python-headless>=4.10.0.84,<5.0.0
+pydantic>=2.10.0,<3.0.0
+python-dotenv>=1.0.1,<2.0.0
+tenacity>=9.0.0,<10.0.0
+tiktoken>=0.8.0,<1.0.0
+
+# Test and coverage tooling
+pytest>=8.3.0,<10.0.0
+pytest-cov>=6.0.0,<8.0.0

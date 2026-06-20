@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+.deps/
+venv/
+.env
+logs/
+output.csv
+evaluation/evaluation_report.md
+evaluation/evaluation_results.csv
